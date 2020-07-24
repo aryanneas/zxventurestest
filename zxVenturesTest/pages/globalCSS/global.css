@@ -1,0 +1,9 @@
+body {
+  font-family: 'Roboto Regular';
+  margin: 0 auto;
+}
+
+@font-face {
+  font-family: 'Roboto Regular';
+  src: url('../../public/fonts/RobotoRegular/roboto-regular-webfont.woff2');
+}
